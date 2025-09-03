@@ -56,6 +56,52 @@ SCREENSHOTS OF THE APP FEATURES: https://drive.google.com/drive/folders/1HN6LTl7
 
 PRESENTATION LINK (CANVA): https://www.canva.com/design/DAGxu2tGLg0/jYeaLXem8-GmNNLlkJ--sw/view?utm_content=DAGxu2tGLg0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3f7d74155b
 
+
+FIRST OF ALL I DESIGNED THE BACKGROUND IMAGE ON CANVA HERES THE LINK TO THE DESIGN https://www.canva.com/design/DAGxcao3FYs/nbyQm3FppTpCIaIdM6jKLA/edit
+
+
+PROMPT USED TO GENERATE THE APP  
+
+Build a web app called **Ingeniosity – The Engineering Student Hub**.
+
+Core features:
+1. **User Dashboard**
+   - Displays user progress, daily streaks, and leaderboards.
+   - Tracks completed lessons and solved problems.
+   - Shows motivational quotes of the day.
+
+2. **AI Chatbot**
+   - Only answers engineering-related questions (electrical, mechanical, civil, computer).
+   - Provides clear, step-by-step explanations.
+
+3. **Motivational Media**
+   - Section for short TikTok-style motivational videos.
+   - Section for inspirational quotes.
+   - Background music option (classical, instrumental).
+
+4. **Learning & Practice**
+   - Daily math/engineering problems for students to solve.
+   - Progress bar and streak counter for solved problems.
+
+5. **Entertainment & Community**
+   - Games and memes for relaxation.
+   - Premium features: group study, networking, internships, and job opportunities.
+
+Design & Layout:
+- Clean, modern, student-friendly interface.
+- Dashboard with cards for each feature.
+- Dark and light mode toggle.
+- Use icons and visuals for motivation and engagement.
+
+Database:
+- Store user accounts, progress, streaks, and chatbot history.
+- Support both free and premium accounts.
+
+Deployment:
+- Host the app so users can log in, access dashboard, chat, and explore features.
+
+
+
 ## Clone of Ingeniousity
 
 This app was created using https://getmocha.com.
